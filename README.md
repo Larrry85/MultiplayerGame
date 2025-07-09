@@ -1,8 +1,12 @@
 # web-game
 
+![Game Screenshot](pps.png)
+
 ## Description
 
 Real-time multiplayer web game using React for menus and vanilla JavaScript for the game logic. The game does not use canvas.
+
+
 
 ## Stack
 
